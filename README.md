@@ -1,5 +1,9 @@
 🚀 Codespace-GUI
 Transform your GitHub Codespace into a full-featured GUI desktop environment accessible via VNC!
+and i am using gitads :
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=rahul-gound/codefondh-codespace-gui@github)](https://gitads.dev/v1/ad-track?source=rahul-gound/codefondh-codespace-gui@github)
 
 🌟 Features
 ✨ Full Desktop Environment - XFCE lightweight desktop
@@ -24,6 +28,10 @@ Use the connection details shown in your terminal
 Enter password: codespace
 
 That's it! You're now running a GUI in your Codespace! 🎉
+and i am using gitads :
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=rahul-gound/codefondh-codespace-gui@github)](https://gitads.dev/v1/ad-track?source=rahul-gound/codefondh-codespace-gui@github)
 
 📱 Recommended VNC Clients
 PlatformClientDownload Link🪟 WindowsRealVNC ViewerDownload🍎 macOSRealVNC ViewerDownload🐧 LinuxRemminasudo apt install remmina📱 AndroidVNC ViewerPlay Store📱 iOSVNC ViewerApp Store
@@ -45,6 +53,12 @@ vncserver :1 -geometry 1600x900 -depth 24 -localhost no
 Install Additional Software
 bash# Install VS Code
 sudo snap install code --classic
+ 
+ thanks gitads
+ and i am using gitads :
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=rahul-gound/codefondh-codespace-gui@github)](https://gitads.dev/v1/ad-track?source=rahul-gound/codefondh-codespace-gui@github)
 
 # Install Chrome
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
@@ -188,6 +202,11 @@ Having issues? Create an issue on GitHub or check the troubleshooting section ab
 
 thanks to gitads:
 <!-- GitAds-Verify: JUSEDTM7TR59OUFL5GL1K1MD2WVO1RTY -->
+
+and i am using gitads :
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=rahul-gound/codefondh-codespace-gui@github)](https://gitads.dev/v1/ad-track?source=rahul-gound/codefondh-codespace-gui@github)
 
 Made with ❤️ by codefondh
 Star ⭐ this repo if you find it useful!
